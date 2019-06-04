@@ -1,0 +1,29 @@
+.display {
+	display: flex;
+}
+.m {
+	margin-left: 50px;
+}
+.mainH{
+	font-family: arial;
+	color: gray;
+	margin-bottom: 40px;
+
+
+}
+.mainH1{
+	text-align: center;
+	margin-top: 82px;
+}
+.ho {
+ 	text-align: center;
+ 	font-family: arial;
+ 	color: gray;
+ 	font-weight: 100;
+}
+.po {
+ 	text-align: center;
+ 	font-family: arial;
+ 	color: gray;
+ 	font-weight: 100;
+}
